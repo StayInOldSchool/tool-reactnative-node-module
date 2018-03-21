@@ -4,11 +4,8 @@
 
 2. rename your project
 
-3. open your shell and run 
-```
-#!javascript
-
-node fool_install.js
-```
-
+3. open your terminal and run
+	```
+	node fool_install.js
+	```
 4. enjoy!
